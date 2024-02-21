@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Look into render bug in dashboard",
+    "id": "1",
+    "column": "backlog"
+  },
+  {
+    "title": "SOX compliance checklist",
+    "id": "2",
+    "column": "backlog"
+  },
+  {
+    "title": "[SPIKE] Migrate to Azure",
+    "id": "3",
+    "column": "backlog"
+  },
+  {
+    "title": "Document Notifications service",
+    "id": "4",
+    "column": "backlog"
+  },
+  {
+    "title": "Research DB options for new microservice",
+    "id": "5",
+    "column": "todo"
+  },
+  {
+    "title": "Postmortem for outage",
+    "id": "6",
+    "column": "todo"
+  },
+  {
+    "title": "Sync with product on Q3 roadmap",
+    "id": "7",
+    "column": "todo"
+  },
+  {
+    "title": "Refactor context providers to use Zustand",
+    "id": "8",
+    "column": "must"
+  },
+  {
+    "title": "Add logging to daily CRON",
+    "id": "9",
+    "column": "must"
+  },
+  {
+    "title": "Set up DD dashboards for Lambda listener",
+    "id": "10",
+    "column": "done"
+  },
+  {
+    "title": "Review latest security patches",
+    "id": "11",
+    "column": "backlog"
+  },
+  {
+    "title": "Plan team offsite retreat",
+    "id": "12",
+    "column": "backlog"
+  },
+  {
+    "title": "Update API documentation",
+    "id": "13",
+    "column": "todo"
+  },
+  {
+    "title": "Implement new UI components",
+    "id": "14",
+    "column": "todo"
+  },
+  {
+    "title": "Conduct performance testing",
+    "id": "15",
+    "column": "must"
+  },
+  {
+    "title": "Prepare release notes for latest deployment",
+    "id": "16",
+    "column": "must"
+  },
+  {
+    "title": "Deploy hotfix for critical issue",
+    "id": "17",
+    "column": "backlog"
+  },
+  {
+    "title": "Optimize database queries",
+    "id": "18",
+    "column": "todo"
+  },
+  {
+    "title": "Write unit tests for authentication module",
+    "id": "19",
+    "column": "todo"
+  },
+  {
+    "title": "Review code style guidelines",
+    "id": "20",
+    "column": "must"
+  },
+  {
+    "title": "Review code style with refactor",
+    "id": "21",
+    "column": "must2"
+  },
+  {
+    "title": "What You think John",
+    "id": "22",
+    "column": "must2"
+  }
+]
